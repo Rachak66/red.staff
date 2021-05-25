@@ -1,6 +1,7 @@
 ---
 name: Jen Estill
 title: Principal, Creative Director
+pronoun: she/her
 role: Strategy and conceptualization
 feed: http://observations.redhead.studio/author/jen-estill/feed/
 

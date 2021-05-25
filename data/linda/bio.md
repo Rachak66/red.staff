@@ -1,6 +1,7 @@
 ---
 name: Linda Estill
 title: Bookkeeper
+pronouns: she/her
 role: Finance, Human Resources
 
 ---
